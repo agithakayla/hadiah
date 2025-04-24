@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
             .pauseFor(1000)
             .typeString(`<span>Halo, ${nama}!</span>`)
             .pauseFor(1000)
-            .typeString('<br><span>Tau gak sekarang kita akan bagaimana😅</span>')
+            .typeString('<br><span>Tau gak kak sekarang bakal kaya gimana?😅</span>')
             .callFunction(() => {
                 
                 tauEnggak.style.display = 'flex';
@@ -92,9 +92,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             tidak.style.display = 'none';
                             typewriter
                             .deleteAll(10)
-                            .typeString('Disini Kita bertemu')
+                            .typeString('ga kerasa yahh kak sudah berpisah ')
                             .pauseFor(500)
-                            .typeString('<br>disini pula kita kan berpisah')
+                            .typeString('<br>padahal baru aja kamarin kenalan')
                             .callFunction(() => {
                                 lanjut.style.display = 'block';
                                 lanjut.style.animation = 'fadeIn 2s ease-in forwards';
@@ -145,11 +145,11 @@ document.addEventListener('DOMContentLoaded', function () {
                     
                     typewriter
                     .deleteAll(10)
-                    .typeString('Masa sih kamu lupa😅')
+                    .typeString('Masa sih kak ga inget 😅')
                     .pauseFor(1000)
                     .typeString('<br>Yaudah gapapa,')
                     .pauseFor(500)
-                    .typeString('sini biar aku jelasin ya😄')
+                    .typeString('biar aku jelasin ya😄')
                     .callFunction(() => {
                         const boleh = document.createElement('button');
                         boleh.classList.add('tau');
@@ -168,9 +168,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             cepet.style.display = 'none';
                             typewriter
                             .deleteAll(10)
-                            .typeString('Jadi kita itu mau berpisah yah🥲')
+                            .typeString('Jadi kita sudah tidak bekerja bareng lagi 🥲')
                             .pauseFor(500)
-                            .typeString('<br>Nah aku mau ngomong sesuatu aja sih sama kamu')
+                            .typeString('<br>Nah aku mau ngomong sesuatu aja sih sama kakak😄')
                             .pauseFor(500)
                             .typeString('<br><br>Lihat yaaa😁')
                             .callFunction(() => {
@@ -191,9 +191,9 @@ document.addEventListener('DOMContentLoaded', function () {
                                     tidak.style.display = 'none';
                                     typewriter
                                     .deleteAll(10)
-                                    .typeString('Disini Kita bertemu')
+                                    .typeString('ga kerasa yahh kak sudah berpisah')
                                     .pauseFor(500)
-                                    .typeString('<br>disini pula kita kan berpisah')
+                                    .typeString('<br>pdahal baru aja kemarin kenalan')
                                     .callFunction(() => {
                                         lanjut.style.display = 'block';
                                         lanjut.style.animation = 'fadeIn 2s ease-in forwards';
@@ -246,9 +246,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             .typeString('Iya iya,sabar dong')
                             .pauseFor(500)
                             .deleteAll(10)
-                            .typeString('Jadi kita itu mau berpisah yah🥲')
+                            .typeString('Jadi kita itu sudah lengser🥲')
                             .pauseFor(500)
-                            .typeString('<br>Nah aku mau ngomong sesuatu aja sih sama kamu😄')
+                            .typeString('<br>Nah aku mau ngomong sesuatu aja sih sama kakak😄')
                             .pauseFor(500)
                             .typeString('<br><br>Lihat yaaa😁')
                             .callFunction(() => {
@@ -269,9 +269,9 @@ document.addEventListener('DOMContentLoaded', function () {
                                     tidak.style.display = 'none';
                                     typewriter
                                     .deleteAll(10)
-                                    .typeString('Disini Kita bertemu')
+                                    .typeString('ga kerasa yahh kak sudah berpisah')
                                     .pauseFor(500)
-                                    .typeString('<br>disini pula kita kan berpisah')
+                                    .typeString('<br>padalah baru aja kemarin kenalan')
                                     .callFunction(() => {
                                         lanjut.style.display = 'block';
                                         lanjut.style.animation = 'fadeIn 2s ease-in forwards';
@@ -325,7 +325,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     .deleteAll(10)
                     .typeString('eummm...')
                     .pauseFor(500)
-                    .typeString('<br>Semua kenanga seakan berlalu')
+                    .typeString('<br>Untuk Kak Tresna, Ketua Divisi 5 OSIS yang Hebat,')
                     .callFunction(() => {
                         const lanjut1 = document.createElement('button');
                         lanjut1.classList.add('lanjut');
@@ -337,9 +337,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             lanjut1.style.display = 'none';
                             typewriter
                             .deleteAll(10)
-                            .typeString('Segala yang dilalui begitu cepat')
+                            .typeString('Terima kasih sudah menjadi sosok yang luar biasa bagi kami semua')
                             .pauseFor(500)
-                            .typeString('<br>dan begitu berharga')
+                            .typeString('<br>Terima kasih sudah sabar membimbing kami di Divisi 5, divisi yang penuh warna,')
                             .callFunction(() => {
                                 const lanjut2 = document.createElement('button');
                                 lanjut2.classList.add('lanjut');
@@ -351,9 +351,9 @@ document.addEventListener('DOMContentLoaded', function () {
                                     lanjut2.style.display = 'none';
                                     typewriter
                                     .deleteAll(10)
-                                    .typeString('Detik-detik yang berganti hari ini')
+                                    .typeString('ide-ide kreatif, dan pastinya... poster dan feeds yang tak pernah absen mencuri perhatian!')
                                     .pauseFor(500)
-                                    .typeString('<br>seakan mempercepat pertemuan kita')
+                                    .typeString('<br>Di bawah arahan Kak Tresna, kami belajar banyak hal, bukan cuma soal desain dan konten-konten lainnya,')
                                     .callFunction(() => {
                                         const lanjut3 = document.createElement('button');
                                         lanjut3.classList.add('lanjut');
@@ -365,9 +365,9 @@ document.addEventListener('DOMContentLoaded', function () {
                                             lanjut3.style.display = 'none';
                                             typewriter
                                             .deleteAll(10)
-                                            .typeString('Dan ada harapan di setiap hati')
+                                            .typeString('tapi juga tentang kerja sama, menghargai pendapat, dan tanggung jawab.')
                                             .pauseFor(500)
-                                            .typeString('<br>Ada keinginan yang begitu besar')
+                                            .typeString('<br>Kakak selalu bisa jadi tempat bertanya, jadi penengah saat bingung, dan jadi penyemangat di kala lelah.')
                                             .callFunction(() => {
                                                 const lanjut4 = document.createElement('button');
                                                 lanjut4.classList.add('lanjut');
@@ -379,7 +379,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                                     lanjut4.style.display = 'none';
                                                     typewriter
                                                     .deleteAll(10)
-                                                    .typeString('Dear teman-temanku')
+                                                    .typeString('Perpisahan ini memang nggak mudah, tapi kenangan bersama Kakak akan selalu jadi bagian paling berharga dari perjalanan kami di OSIS.')
                                                     .pauseFor(500)
                                                     .callFunction(() => {
                                                         const lanjut5 = document.createElement('button');
@@ -392,7 +392,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                                             lanjut5.style.display = 'none';
                                                             typewriter
                                                             .deleteAll(10)
-                                                            .typeString('Didepan mata perpisahan itu berada')
+                                                            .typeString('Semoga ke depannya, Kakak bisa terus bersinar di mana pun berada. Jangan lupa kami, tim kecil penuh semangat dari Divisi 5!')
                                                             .pauseFor(500)
                                                             .callFunction(() => {
                                                                 const lanjut6 = document.createElement('button');
@@ -405,7 +405,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                                                     lanjut6.style.display = 'none';
                                                                     typewriter
                                                                     .deleteAll(10)
-                                                                    .typeString('Kebersamaan kita akan menjadi kenangan dan cerita')
+                                                                    .typeString('Terima kasih atas semua dedikasi dan bimbingannya, Kak.')
                                                                     .pauseFor(500)
                                                                     .callFunction(() => {
                                                                         const lanjut7 = document.createElement('button');
@@ -418,13 +418,13 @@ document.addEventListener('DOMContentLoaded', function () {
                                                                             lanjut7.style.display = 'none';
                                                                             typewriter
                                                                             .deleteAll(10)
-                                                                            .typeString('Kita berpisah demi sebuah impian')
+                                                                            .typeString('Semoga segala kebaikan Kakak dibalas berlipat oleh-Nya.')
                                                                             .pauseFor(1000)
-                                                                            .typeString('<br>Impian yang berbeda')
+                                                                            .typeString('<br> Sampai jumpa di lain kesempatan 💙')
                                                                             .pauseFor(1000)
-                                                                            .typeString(' dan juga jalan yang berbeda')
+                                                                            .typeString('Dengan penuh rasa hormat dan terima kasih,')
                                                                             .pauseFor(1000)
-                                                                            .typeString('<br><br>--Dariku Untukmu--')
+                                                                            .typeString('<br><brAnggota osis divisi 5 yang sangat menyayangi kakak')
                                                                             .callFunction(() => {
                                                                                 const lanjut8 = document.createElement('button');
                                                                                 lanjut8.classList.add('lanjut');
