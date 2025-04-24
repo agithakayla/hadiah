@@ -1,11 +1,10 @@
 /* Style untuk container form */
 body {
-    width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     margin: 0;
-    overflow: hidden;
     background: url('img/background-kelas.jpg') no-repeat center center;
     background-size: cover;
+    background-attachment: fixed; /* opsional: agar background tetap saat scroll */
     font-family: 'Signika', Sans-Serif;
 }
 
